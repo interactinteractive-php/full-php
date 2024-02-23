@@ -1,0 +1,15 @@
+[submodule "helper"]
+	path = helper
+	url = https://github.com/interactinteractive-php/php_helper.git
+[submodule "assetscore"]
+	path = assetscore
+	url = https://github.com/interactinteractive-php/php_assetscore.git
+[submodule "middleware"]
+	path = middleware
+	url = https://github.com/interactinteractive-php/php_middleware.git
+[submodule "config"]
+	path = config
+	url = https://github.com/interactinteractive-php/php_config_env.git
+[submodule "libs"]
+	path = libs
+	url = https://github.com/interactinteractive-php/php_libs.git
